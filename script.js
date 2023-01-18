@@ -110,6 +110,7 @@ projects.forEach((item) => {
   <a
   href=${item.link}
   rel="noopener"
+  target="_blank"
 >
   <div class="card">
     <div class="image-container" style="background-image: url('')">
@@ -135,6 +136,7 @@ otherProjects.forEach((item) => {
   <a
   href=${item.link}
   rel="noopener"
+  target="_blank"
 >
   <div class="content-container">
     <h2>${item.name}</h2>
@@ -156,6 +158,7 @@ articles.forEach((item) => {
   class="card"
   href=${item.link}
   rel="noopener"
+  target="_blank"
 >
   <div class="image-container">
     <img
