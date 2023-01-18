@@ -19,23 +19,31 @@ const projects = [
       'This application will help you to save friends recommendations of what to watch and what is also important what NOT to watch. Here you can also take a test and find out what to watch tonight.',
     tags: ['HTML', 'CSS', 'JavaScript'],
   },
-  // {
-  //   image: 'img/movies.png',
-  //   name: 'Movie App',
-  //   link: 'https://the-movie-db-project.netlify.app/',
-  //   description:
-  //     'Pair-programming project using React Router, displaying lists of Top Rated Movies and more details when clicked on.',
-  //   tags: ['React', 'React Router'],
-  // },
-  // {
-  //   image: 'img/todo.png',
-  //   name: 'Todo App',
-  //   link: 'https://todo-app-by-darya.netlify.app/',
-  //   description:
-  //     'This project is about creating a React Redux todo app with the functionality to add, list, and toggle tasks whether a task is done or not.',
-  //   tags: ['React', 'Redux', 'Styled Components'],
-  // },
- 
+  {
+    image: 'img/movies.png',
+    name: 'Movie App',
+    link: 'https://the-movie-db-project.netlify.app/',
+    description:
+      'Pair-programming project using React Router, displaying lists of Top Rated Movies and more details when clicked on.',
+    tags: ['React', 'React Router'],
+  },
+  {
+    image: 'img/todo.png',
+    name: 'ToDo App',
+    link: 'https://mashidzasupergirl.github.io/ToDoList/',
+    description:
+      'ToDo list for every day. You can add task, cross out and then delete. The data is stored in local memory, do not worry to close the tab',
+    tags: ['React', 'HTML', 'CSS', 'JavaScript'],
+  },
+
+    {
+    image: 'img/fizz-buzz.png',
+    name: 'FizzBuzz game & Divisors',
+    link: 'https://dl-shows-api.netlify.app/',
+    description:
+      '1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, Fizz Buzz, 16, 17, Fizz... Do you know what I mean? If not - google Fizz-Buzz game 😉',
+    tags: ['API', 'Express.js', 'Backend'],
+  },
 
   // {
   //   image: 'img/express_api.png',
