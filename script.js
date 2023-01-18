@@ -8,25 +8,34 @@ const projects = [
     name: 'Mob timer',
     link: 'http://ec2-16-171-2-140.eu-north-1.compute.amazonaws.com/',
     description:
-    'We had two weeks to make a full-stack application from scratch. We used: ⭐ React for frontend ⭐ Express, RESTful APIs for backend⭐ Mongo DataBase ⭐ Docker to manage our application⭐ AWS for deploying',
+    'Final project at Salt. We had two weeks to make a full-stack application from scratch. This is a mob timer where you can customize the team, timer time and sound',
     tags: ['React', 'Express', 'RESTful APIs', 'MongoDB', 'Docker', 'AWS']
   },
   {
-    image: 'img/movies.png',
-    name: 'Movie App',
-    link: 'https://the-movie-db-project.netlify.app/',
+    image: 'img/film-lovers-project.png',
+    name: 'Application for filmlovers',
+    link: 'https://mashidzasupergirl.github.io/FilmLoversProject/',
     description:
-      'Pair-programming project using React Router, displaying lists of Top Rated Movies and more details when clicked on.',
-    tags: ['React', 'React Router'],
+      'This application will help you to save friends recommendations of what to watch and what is also important what NOT to watch. Here you can also take a test and find out what to watch tonight.',
+    tags: ['HTML', 'CSS', 'JavaScript'],
   },
-  {
-    image: 'img/todo.png',
-    name: 'Todo App',
-    link: 'https://todo-app-by-darya.netlify.app/',
-    description:
-      'This project is about creating a React Redux todo app with the functionality to add, list, and toggle tasks whether a task is done or not.',
-    tags: ['React', 'Redux', 'Styled Components'],
-  },
+  // {
+  //   image: 'img/movies.png',
+  //   name: 'Movie App',
+  //   link: 'https://the-movie-db-project.netlify.app/',
+  //   description:
+  //     'Pair-programming project using React Router, displaying lists of Top Rated Movies and more details when clicked on.',
+  //   tags: ['React', 'React Router'],
+  // },
+  // {
+  //   image: 'img/todo.png',
+  //   name: 'Todo App',
+  //   link: 'https://todo-app-by-darya.netlify.app/',
+  //   description:
+  //     'This project is about creating a React Redux todo app with the functionality to add, list, and toggle tasks whether a task is done or not.',
+  //   tags: ['React', 'Redux', 'Styled Components'],
+  // },
+ 
 
   // {
   //   image: 'img/express_api.png',
