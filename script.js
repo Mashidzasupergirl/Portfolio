@@ -39,10 +39,10 @@ const projects = [
     {
     image: 'img/fizz-buzz.png',
     name: 'FizzBuzz game & Divisors',
-    link: 'https://dl-shows-api.netlify.app/',
+    link: '',
     description:
       '1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, Fizz Buzz, 16, 17, Fizz... Do you know what I mean? If not - google Fizz-Buzz game 😉',
-    tags: ['API', 'Express.js', 'Backend'],
+    tags: ['HTML', 'CSS', 'JavaScript'],
   },
 
   // {
@@ -57,19 +57,20 @@ const projects = [
 
 const otherProjects = [
   {
-    name: 'Music App',
-    link: 'https://react-app-music-realeses.netlify.app/',
+    name: 'Orienteering',
+    link: 'https://youtu.be/ZxyUDG2DBD0',
     description:
-      'Pair-programming project which shows new albums and singles releases.',
-    tags: ['JSX', 'React', 'API'],
+      'I have been orienteering since childhood. This sport allows you to train both the mind and physical strength and at the same time you can enjoy the beauty of nature.',
+    tags: ['Orienteering'],
   },
   {
-    name: 'Guess Who?',
-    link: 'https://guess-who-by-darya.netlify.app/',
+    name: 'Political activism and volunteering',
+    link: 'https://www.russiansagainstthewar.se/',
     description:
-      'My digital version of the old character guessing board game -> Guess Who? I enjoyed working on this project even when sometimes it was hard to deal with challenges. After all, I built my own game for the first time!',
-    tags: ['JavaScript', 'CSS', 'HTML'],
+      'I want the war in Ukraine started by Putin to end. I am participating in the anti-war committee in Sweden «Russians Against War». I help refugees from Ukraine and political prisoners in Russia.',
+    tags: ['Stand with Ukraine'],
   },
+
 ];
 
 const articles = [
