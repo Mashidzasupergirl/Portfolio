@@ -19,23 +19,31 @@ const projects = [
       'This application will help you to save friends recommendations of what to watch and what is also important what NOT to watch. Here you can also take a test and find out what to watch tonight.',
     tags: ['HTML', 'CSS', 'JavaScript'],
   },
-  // {
-  //   image: 'img/movies.png',
-  //   name: 'Movie App',
-  //   link: 'https://the-movie-db-project.netlify.app/',
-  //   description:
-  //     'Pair-programming project using React Router, displaying lists of Top Rated Movies and more details when clicked on.',
-  //   tags: ['React', 'React Router'],
-  // },
-  // {
-  //   image: 'img/todo.png',
-  //   name: 'Todo App',
-  //   link: 'https://todo-app-by-darya.netlify.app/',
-  //   description:
-  //     'This project is about creating a React Redux todo app with the functionality to add, list, and toggle tasks whether a task is done or not.',
-  //   tags: ['React', 'Redux', 'Styled Components'],
-  // },
- 
+  {
+    image: 'img/movies.png',
+    name: 'Movie App',
+    link: 'https://the-movie-db-project.netlify.app/',
+    description:
+      'Pair-programming project using React Router, displaying lists of Top Rated Movies and more details when clicked on.',
+    tags: ['React', 'React Router'],
+  },
+  {
+    image: 'img/todo.png',
+    name: 'ToDo App',
+    link: 'https://mashidzasupergirl.github.io/ToDoList/',
+    description:
+      'ToDo list for every day. You can add task, cross out and then delete. The data is stored in local memory, do not worry to close the tab',
+    tags: ['React', 'HTML', 'CSS', 'JavaScript'],
+  },
+
+    {
+    image: 'img/fizz-buzz.png',
+    name: 'FizzBuzz game & Divisors',
+    link: 'https://mashidzasupergirl.github.io/FizzBuzz-and-Divisors-game/',
+    description:
+      '1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, Fizz Buzz, 16, 17, Fizz... Do you know what I mean? If not - google Fizz-Buzz game 😉',
+    tags: ['HTML', 'CSS', 'JavaScript'],
+  },
 
   // {
   //   image: 'img/express_api.png',
@@ -49,19 +57,20 @@ const projects = [
 
 const otherProjects = [
   {
-    name: 'Music App',
-    link: 'https://react-app-music-realeses.netlify.app/',
+    name: 'Orienteering',
+    link: 'https://youtu.be/ZxyUDG2DBD0',
     description:
-      'Pair-programming project which shows new albums and singles releases.',
-    tags: ['JSX', 'React', 'API'],
+      'I have been orienteering since childhood. This sport allows you to train both the mind and physical strength and at the same time you can enjoy the beauty of nature.',
+    tags: ['Orienteering'],
   },
   {
-    name: 'Guess Who?',
-    link: 'https://guess-who-by-darya.netlify.app/',
+    name: 'Political activism and volunteering',
+    link: 'https://www.russiansagainstthewar.se/',
     description:
-      'My digital version of the old character guessing board game -> Guess Who? I enjoyed working on this project even when sometimes it was hard to deal with challenges. After all, I built my own game for the first time!',
-    tags: ['JavaScript', 'CSS', 'HTML'],
+      'I want the war in Ukraine started by Putin to end. I am participating in the anti-war committee in Sweden «Russians Against War». I help refugees from Ukraine and political prisoners in Russia.',
+    tags: ['Stand with Ukraine'],
   },
+
 ];
 
 const articles = [
