@@ -8,7 +8,7 @@ const projects = [
     name: 'Mob timer',
     link: 'http://ec2-16-171-2-140.eu-north-1.compute.amazonaws.com/',
     description:
-    'Final project at Salt. We had two weeks to make a full-stack application from scratch. This is a mob timer where you can customize the team, timer time and sound',
+    'Full-stack application from scratch. This is a mob timer where you can customize the team, timer time and sound',
     tags: ['React', 'Express', 'RESTful APIs', 'MongoDB', 'Docker', 'AWS']
   },
   {
@@ -33,7 +33,7 @@ const projects = [
     name: 'Application for filmlovers',
     link: 'https://mashidzasupergirl.github.io/FilmLoversProject/',
     description:
-      'This application will help you to save friends recommendations of what to watch and what is also important what NOT to watch. Here you can also take a test and find out what to watch tonight.',
+      'Save friends recommendations of what to watch and what is also important what NOT to watch. Here you can also take a test and find out what to watch tonight.',
     tags: ['HTML', 'CSS', 'JavaScript'],
   },
 
