@@ -39,7 +39,7 @@ const projects = [
     {
     image: 'img/fizz-buzz.png',
     name: 'FizzBuzz game & Divisors',
-    link: '',
+    link: 'https://mashidzasupergirl.github.io/FizzBuzz-and-Divisors-game/',
     description:
       '1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, Fizz Buzz, 16, 17, Fizz... Do you know what I mean? If not - google Fizz-Buzz game 😉',
     tags: ['HTML', 'CSS', 'JavaScript'],
