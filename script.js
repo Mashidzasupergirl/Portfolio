@@ -4,6 +4,14 @@ const otherContainer = document.getElementById('otherContainer');
 
 const projects = [
   {
+    image: 'img/final-project-salt.png',
+    name: 'Mob timer',
+    link: 'http://ec2-16-171-2-140.eu-north-1.compute.amazonaws.com/',
+    description:
+    'We had two weeks to make a full-stack application from scratch. We used: ⭐ React for frontend ⭐ Express, RESTful APIs for backend⭐ Mongo DataBase ⭐ Docker to manage our application⭐ AWS for deploying',
+    tags: ['React', 'Express', 'RESTful APIs', 'MongoDB', 'Docker', 'AWS']
+  },
+  {
     image: 'img/movies.png',
     name: 'Movie App',
     link: 'https://the-movie-db-project.netlify.app/',
@@ -19,14 +27,7 @@ const projects = [
       'This project is about creating a React Redux todo app with the functionality to add, list, and toggle tasks whether a task is done or not.',
     tags: ['React', 'Redux', 'Styled Components'],
   },
-  // {
-  //   image: 'img/happy_thoughts.png',
-  //   name: 'Happy Thoughts',
-  //   link: 'https://happy-thoughts-react-project.netlify.app/',
-  //   description:
-  //     "For this project, I've been digging into React, and a deeper understanding of useEffect and useState.",
-  //   tags: ['React', 'Redux'],
-  // },
+
   // {
   //   image: 'img/express_api.png',
   //   name: 'Express Api',
