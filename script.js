@@ -12,12 +12,12 @@ const projects = [
     tags: ['React', 'Express', 'RESTful APIs', 'MongoDB', 'Docker', 'AWS']
   },
   {
-    image: 'img/film-lovers-project.png',
-    name: 'Application for filmlovers',
-    link: 'https://mashidzasupergirl.github.io/FilmLoversProject/',
+    image: 'img/todo.png',
+    name: 'ToDo App',
+    link: 'https://mashidzasupergirl.github.io/ToDoList/',
     description:
-      'This application will help you to save friends recommendations of what to watch and what is also important what NOT to watch. Here you can also take a test and find out what to watch tonight.',
-    tags: ['HTML', 'CSS', 'JavaScript'],
+      'ToDo list for every day. You can add task, cross out and then delete. The data is stored in local memory, do not worry to close the tab',
+    tags: ['React', 'HTML', 'CSS', 'JavaScript'],
   },
   {
     image: 'img/movies.png',
@@ -27,13 +27,14 @@ const projects = [
       'Pair-programming project using React Router, displaying lists of Top Rated Movies and more details when clicked on.',
     tags: ['React', 'React Router'],
   },
+
   {
-    image: 'img/todo.png',
-    name: 'ToDo App',
-    link: 'https://mashidzasupergirl.github.io/ToDoList/',
+    image: 'img/film-lovers-project.png',
+    name: 'Application for filmlovers',
+    link: 'https://mashidzasupergirl.github.io/FilmLoversProject/',
     description:
-      'ToDo list for every day. You can add task, cross out and then delete. The data is stored in local memory, do not worry to close the tab',
-    tags: ['React', 'HTML', 'CSS', 'JavaScript'],
+      'This application will help you to save friends recommendations of what to watch and what is also important what NOT to watch. Here you can also take a test and find out what to watch tonight.',
+    tags: ['HTML', 'CSS', 'JavaScript'],
   },
 
     {
