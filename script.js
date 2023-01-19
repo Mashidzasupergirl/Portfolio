@@ -12,6 +12,14 @@ const projects = [
     tags: ['React', 'Express', 'RESTful APIs', 'MongoDB', 'Docker', 'AWS']
   },
   {
+    image: 'img/film-lovers-project.png',
+    name: 'Application for filmlovers',
+    link: 'https://mashidzasupergirl.github.io/FilmLoversProject/',
+    description:
+      'Save friends recommendations of what to watch and what is also important what NOT to watch. Here you can also take a test and find out what to watch tonight.',
+    tags: ['HTML', 'CSS', 'JavaScript'],
+  },
+  {
     image: 'img/todo.png',
     name: 'ToDo App',
     link: 'https://mashidzasupergirl.github.io/ToDoList/',
@@ -28,21 +36,22 @@ const projects = [
     tags: ['React', 'React Router'],
   },
 
-  {
-    image: 'img/film-lovers-project.png',
-    name: 'Application for filmlovers',
-    link: 'https://mashidzasupergirl.github.io/FilmLoversProject/',
-    description:
-      'Save friends recommendations of what to watch and what is also important what NOT to watch. Here you can also take a test and find out what to watch tonight.',
-    tags: ['HTML', 'CSS', 'JavaScript'],
-  },
+
 
     {
     image: 'img/fizz-buzz.png',
     name: 'FizzBuzz game & Divisors',
     link: 'https://mashidzasupergirl.github.io/FizzBuzz-and-Divisors-game/',
     description:
-      '1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, Fizz Buzz, 16, 17, Fizz... Do you know what I mean? If not - google Fizz-Buzz game 😉',
+      '1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, Fizz Buzz, 16, 17, Fizz... Do you know what I mean? If not - google Fizz-Buzz game 😉 This application was created with mob programming',
+    tags: ['HTML', 'CSS', 'JavaScript'],
+  },
+  {
+    image: 'img/totem-animal.png',
+    name: 'Totem animal',
+    link: 'https://mashidzasupergirl.github.io/totem-animal/',
+    description:
+      'This is my very first app ever that I made! If you are a beginner in coding, I will gladly explain you how web applications are created using this code as an example.',
     tags: ['HTML', 'CSS', 'JavaScript'],
   },
 
