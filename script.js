@@ -43,8 +43,18 @@ const projects = [
     name: 'FizzBuzz game & Divisors',
     link: 'https://mashidzasupergirl.github.io/FizzBuzz-and-Divisors-game/',
     description:
-      '1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, Fizz Buzz, 16, 17, Fizz... Do you know what I mean? If not - google Fizz-Buzz game 😉 This application was created with mob programming',
+      '1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fiz... Do you know what I mean? If not - google Fizz-Buzz game 😉',
+      // This application was created with mob programming
     tags: ['HTML', 'CSS', 'JavaScript'],
+  },
+
+    {
+    image: 'img/news-website-template.png',
+    name: 'News website',
+    link: 'https://mashidzasupergirl.github.io/News-website-template/',
+    description:
+      'A very simple news website template. It is fully responsive so it looks beautiful on all gadgets.',
+    tags: ['HTML', 'CSS'],
   },
   {
     image: 'img/totem-animal.png',
