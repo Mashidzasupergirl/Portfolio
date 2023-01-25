@@ -27,14 +27,14 @@ const projects = [
       'ToDo list for every day. You can add task, cross out and then delete. The data is stored in local memory, do not worry to close the tab',
     tags: ['React', 'HTML', 'CSS', 'JavaScript'],
   },
-  {
-    image: 'img/movies.png',
-    name: 'Movie App',
-    link: 'https://the-movie-db-project.netlify.app/',
-    description:
-      'Pair-programming project using React Router, displaying lists of Top Rated Movies and more details when clicked on.',
-    tags: ['React', 'React Router'],
-  },
+  // {
+  //   image: 'img/movies.png',
+  //   name: 'Movie App',
+  //   link: 'https://the-movie-db-project.netlify.app/',
+  //   description:
+  //     'Pair-programming project using React Router, displaying lists of Top Rated Movies and more details when clicked on.',
+  //   tags: ['React', 'React Router'],
+  // },
 
 
 
