@@ -35,9 +35,6 @@ const projects = [
   //     'Pair-programming project using React Router, displaying lists of Top Rated Movies and more details when clicked on.',
   //   tags: ['React', 'React Router'],
   // },
-
-
-
     {
     image: 'img/fizz-buzz.png',
     name: 'FizzBuzz game & Divisors',
@@ -64,15 +61,6 @@ const projects = [
       'This is my very first app ever that I made! If you are a beginner in coding, I will gladly explain you how web applications are created using this code as an example.',
     tags: ['HTML', 'CSS', 'JavaScript'],
   },
-
-  // {
-  //   image: 'img/express_api.png',
-  //   name: 'Express Api',
-  //   link: 'https://dl-shows-api.netlify.app/',
-  //   description:
-  //     'First backend project where I have created an API using Express. This API returns an array of data, or a single item',
-  //   tags: ['API', 'Express.js', 'Backend'],
-  // },
 ];
 
 const otherProjects = [
@@ -97,30 +85,9 @@ const articles = [
   {
     image: 'img/article1.webp',
     title: 'Is programming right for me?',
-    link: 'https://medium.com/@darya.lapata/is-programming-right-for-me-d17678c198f7',
+    link: '',
     description:
-      'During a career change, you may come across some thoughts and questions. Is it for me? Am I smart enough for this? Will I ever understand the code?',
-  },
-  {
-    image: 'img/article2.webp',
-    title: 'My top 5 resources to learn how to code',
-    link: 'https://medium.com/@darya.lapata/is-programming-right-for-me-d17678c198f7',
-    description:
-      'In this article, I wanted to share my top 5 resources to learn how to code...',
-  },
-  {
-    image: 'img/article3.webp',
-    title: 'Think like a programmer',
-    link: 'https://medium.com/@darya.lapata/think-like-a-programmer-4f47aed41433',
-    description:
-      'Recently I was thinking about what does it mean to be a programmer. After some googling I found a ton of interesting articles and created an image that explains it so clearly...',
-  },
-  {
-    image: 'img/article4.webp',
-    title: 'Git common commands',
-    link: 'https://medium.com/@darya.lapata/git-common-commands-7d329583f34a',
-    description:
-      'Git is an important tool to handle when you are a developer. In this article, I wanted to share most common git commands...',
+      'During a career change, ?',
   },
 ];
 
