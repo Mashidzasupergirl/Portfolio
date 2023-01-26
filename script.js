@@ -24,17 +24,17 @@ const projects = [
     name: 'ToDo App',
     link: 'https://mashidzasupergirl.github.io/ToDoList/',
     description:
-      'ToDo list for every day. You can add task, cross out and then delete. The data is stored in local memory, do not worry to close the tab',
+      'ToDo list for every day. You can add task, cross out and then delete. The data is stored in local memory, do not worry to close the tab. Application adapted for mobile devices',
     tags: ['React', 'HTML', 'CSS', 'JavaScript'],
   },
-  // {
-  //   image: 'img/movies.png',
-  //   name: 'Movie App',
-  //   link: 'https://the-movie-db-project.netlify.app/',
-  //   description:
-  //     'Pair-programming project using React Router, displaying lists of Top Rated Movies and more details when clicked on.',
-  //   tags: ['React', 'React Router'],
-  // },
+  {
+    image: 'img/totem-animal.png',
+    name: 'Totem animal',
+    link: 'https://mashidzasupergirl.github.io/totem-animal/',
+    description:
+      'This is my very first app ever that I made! If you are a beginner in coding, I will gladly explain you how web applications are created using this code as an example.',
+    tags: ['HTML', 'CSS', 'JavaScript'],
+  },
     {
     image: 'img/fizz-buzz.png',
     name: 'FizzBuzz game & Divisors',
@@ -53,14 +53,7 @@ const projects = [
       'A very simple news website template. It is fully responsive so it looks beautiful on all gadgets.',
     tags: ['HTML', 'CSS'],
   },
-  {
-    image: 'img/totem-animal.png',
-    name: 'Totem animal',
-    link: 'https://mashidzasupergirl.github.io/totem-animal/',
-    description:
-      'This is my very first app ever that I made! If you are a beginner in coding, I will gladly explain you how web applications are created using this code as an example.',
-    tags: ['HTML', 'CSS', 'JavaScript'],
-  },
+
 ];
 
 const otherProjects = [
